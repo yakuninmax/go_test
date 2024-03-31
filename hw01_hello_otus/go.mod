@@ -1,4 +1,4 @@
-module github.com/yakuninmax/go_test/hw01_hello_otus
+module github.com/yakuninmax/hw01_hello_otus
 
 go 1.19
 
